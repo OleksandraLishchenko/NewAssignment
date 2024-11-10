@@ -28,13 +28,13 @@
 
     <style name="EnterEmailStyle">
         <item name="android:layout_width">300dp</item>
-        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_height">60dp</item>
         <item name="android:layout_marginTop">75dp</item>
     </style>
 
     <style name="PasswordInputStyle">
         <item name="android:layout_width">300dp</item>
-        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_height">60dp</item>
         <item name="android:layout_marginTop">20dp</item>
     </style>
 
@@ -103,25 +103,25 @@
 
     <style name="FullNameInputStyle">
         <item name="android:layout_width">300dp</item>
-        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_height">60dp</item>
         <item name="android:layout_marginTop">70dp</item>
     </style>
 
     <style name="ValidEmailInputStyle">
         <item name="android:layout_width">300dp</item>
-        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_height">60dp</item>
         <item name="android:layout_marginTop">15dp</item>
     </style>
 
     <style name="PhoneNumberInputStyle">
         <item name="android:layout_width">300dp</item>
-        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_height">60dp</item>
         <item name="android:layout_marginTop">15dp</item>
     </style>
 
     <style name="StrongPasswordInputStyle">
         <item name="android:layout_width">300dp</item>
-        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_height">60dp</item>
         <item name="android:layout_marginTop">15dp</item>
     </style>
 
